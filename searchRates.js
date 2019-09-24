@@ -141,9 +141,9 @@ const question2 = () => {
     query.question('What item are you searching for? :', (item) => {
       var itemData = jsonData[item.toLowerCase()];
       var sorted = sortResults(itemData);
-      console.log(!sortedItems.includes(item));
       if (!sortedItems.includes(item)) {
         console.log(item + ' not found in database check for a spelling error?');
+        query.close()
         return;
       }
       console.log('');
