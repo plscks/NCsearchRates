@@ -128,9 +128,15 @@ const question1 = () => {
   return new Promise((resolve, reject) => {
     query.question('Enter the starting letter of the items you want to see: ', (letterToList) => {
       var itemsStartingWith = itemsStartWith(sortedItems, letterToList);
-      console.log('           ITEMS THAT CAN BE QUERIED');
-      console.log('+-----------------------------------------------+');
-      for (i = 0; i < itemsStartingWith.length; ++i) console.log('       ' + itemsStartingWith[i]);
+      while (itemsStartingWith.length) {
+    		smallList = itemsStartingWith.splice(0, 40);
+    		for (var i = 0; i < smallList.length; ++i) {
+          console.log('');
+          console.log('           ITEMS THAT CAN BE QUERIED');
+          console.log('+-----------------------------------------------+');
+          for (i = 0; i < smallList.length; ++i) console.log('       ' + smallList[i]);
+        }
+      }
       resolve()
     })
   })
@@ -141,14 +147,15 @@ const question2 = () => {
     query.question('What item are you searching for? :', (item) => {
       var itemData = jsonData[item.toLowerCase()];
       var sorted = sortResults(itemData);
-      console.log(!sortedItems.includes(item));
       if (!sortedItems.includes(item)) {
         console.log(item + ' not found in database check for a spelling error?');
-        return;
+        query.close()
+        return
       }
       console.log('');
       console.log('');
-      console.log('Information for ' + item);
+      console.log('Search data for ' + item + ':');
+      console.log('');
       console.log('Percent to Find        Location');
       console.log('+----------------------------------------------+');
       for (var i = 0; i < sorted.length; ++i) {
@@ -157,6 +164,8 @@ const question2 = () => {
         else percent = percent.toPrecision(4)
         console.log(percent + ' -------------- ' + sorted[i][0]);
       }
+      console.log('');
+      console.log('');
       resolve()
     })
   })
