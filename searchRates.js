@@ -150,7 +150,7 @@ const question2 = () => {
       if (!sortedItems.includes(item)) {
         console.log(item + ' not found in database check for a spelling error?');
         query.close()
-        return
+        return;
       }
       console.log('');
       console.log('');
