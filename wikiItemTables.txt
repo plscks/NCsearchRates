@@ -1540,7 +1540,41 @@
 
 
 
-~~~ Black Ribbed Sweater~~~
+~~~ Black Ribbed Sweater~~~DONE
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|}
+
+~~~ White Ribbed Sweater~~~DONE
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|}
+
+~~~ Grey Ribbed Sweater~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1559,7 +1593,7 @@
 
 
 
-~~~ Black Sleeveless T-Shirt~~~
+~~~ Black Sleeveless T-Shirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1580,7 +1614,7 @@
 
 
 
-~~~ Black Sweatshirt~~~
+~~~ Black Sweatshirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1603,7 +1637,7 @@
 
 
 
-~~~ Black Wool Scarf~~~
+~~~ Black Wool Scarf~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1664,7 +1698,7 @@
 
 
 
-~~~ Blue Sweatshirt~~~
+~~~ Blue Sweatshirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1687,7 +1721,7 @@
 
 
 
-~~~ Bottle of Wine~~~
+~~~ Bottle of Wine~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1732,7 +1766,7 @@
 
 
 
-~~~ Brown Sweatshirt~~~
+~~~ Brown Sweatshirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1755,7 +1789,7 @@
 
 
 
-~~~ Brown Wool Scarf~~~
+~~~ Brown Wool Scarf~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1774,7 +1808,7 @@
 
 
 
-~~~ Can of Chicken Soup~~~
+~~~ Can of Chicken Soup~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1811,7 +1845,7 @@
 
 
 
-~~~ Can of Creamed Corn~~~
+~~~ Can of Creamed Corn~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1858,7 +1892,7 @@
 |}
 
 
-~~~ Can of Tomato Soup~~~
+~~~ Can of Tomato Soup~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1893,7 +1927,7 @@
 
 
 
-~~~ Chainsaw~~~
+~~~ Chainsaw~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1914,7 +1948,7 @@
 
 
 
-~~~ First Aid Kit~~~
+~~~ First Aid Kit~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1967,7 +2001,7 @@
 |}
 
 
-~~~ Frying Pan~~~
+~~~ Frying Pan~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2050,7 +2084,7 @@
 
 
 
-~~~ Green Sweatshirt~~~
+~~~ Green Sweatshirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2092,26 +2126,7 @@
 
 
 
-~~~ Grey Ribbed Sweater~~~
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|}
-
-
-
-~~~ Grey Sweatshirt~~~
+~~~ Grey Sweatshirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2134,7 +2149,7 @@
 
 
 
-~~~ Grey Wool Scarf~~~
+~~~ Grey Wool Scarf~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3769,7 +3784,7 @@
 |}
 
 
-~~~ Purple Sweatshirt~~~
+~~~ Purple Sweatshirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3900,7 +3915,7 @@
 
 
 
-~~~ Red Sweatshirt~~~
+~~~ Red Sweatshirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3923,7 +3938,7 @@
 
 
 
-~~~ Red Wool Scarf~~~
+~~~ Red Wool Scarf~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4049,26 +4064,7 @@
 
 
 
-~~~ White Ribbed Sweater~~~
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|}
-
-
-
-~~~ White Sleeveless T-Shirt~~~
+~~~ White Sleeveless T-Shirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4085,7 +4081,7 @@
 
 
 
-~~~ White Sweatshirt~~~
+~~~ White Sweatshirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4108,7 +4104,7 @@
 
 
 
-~~~ White Wool Scarf~~~
+~~~ White Wool Scarf~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4175,7 +4171,7 @@
 
 
 
-~~~ Yellow Sweatshirt~~~
+~~~ Yellow Sweatshirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4198,7 +4194,7 @@
 
 
 
-~~~ Yellow Wool Scarf~~~
+~~~ Yellow Wool Scarf~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6073,7 +6069,7 @@
 |}
 
 
-~~~ Grimy Sleeveless T-Shirt~~~
+~~~ Grimy Sleeveless T-Shirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
