@@ -1,4 +1,4 @@
-~~~ Bottle of Whiskey~~~
+~~~ Bottle of Whiskey~~~ DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -49,7 +49,7 @@
 |}
 
 
-~~~ Fuel Can~~~
+~~~ Fuel Can~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -96,7 +96,7 @@
 |}
 
 
-~~~ Newspaper~~~
+~~~ Newspaper~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -277,7 +277,7 @@
 |}
 
 
-~~~ Pack of Cigarettes~~~
+~~~ Pack of Cigarettes~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -420,7 +420,7 @@
 |}
 
 
-~~~ Book of Matches~~~
+~~~ Book of Matches~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -549,7 +549,7 @@
 |}
 
 
-~~~ Piece of Wood~~~
+~~~ Piece of Wood~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -826,7 +826,7 @@
 |}
 
 
-~~~ Rock~~~
+~~~ Rock~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1115,7 +1115,7 @@
 |}
 
 
-~~~ Apple~~~
+~~~ Apple~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1164,7 +1164,7 @@
 |}
 
 
-~~~ Axe~~~
+~~~ Axe~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1207,7 +1207,7 @@
 |}
 
 
-~~~ Banana~~~
+~~~ Banana~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1258,7 +1258,7 @@
 |}
 
 
-~~~ Baseball Bat~~~
+~~~ Baseball Bat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1285,7 +1285,7 @@
 
 
 
-~~~ Black Baseball Cap~~~
+~~~ Black Baseball Cap~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1310,7 +1310,7 @@
 
 
 
-~~~ Black Cowboy Hat~~~
+~~~ Black Cowboy Hat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1331,7 +1331,7 @@
 
 
 
-~~~ Black Crop Top~~~
+~~~ Black Crop Top~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1348,7 +1348,7 @@
 
 
 
-~~~ Black Hoodie~~~
+~~~ Black Hoodie~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1367,6 +1367,173 @@
 | [[Slum]] || 1 || 1.75 || 0.18
 |-
 | [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|}
+
+~~~ Blue Hoodie~~~DONE
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|}
+
+~~~ Brown Hoodie~~~DONE
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|}
+
+~~~ Green Hoodie~~~DONE
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|-
+| [[Zoo]] || 1 || 1.64 || 0.33
+|}
+
+~~~ Grey Hoodie~~~DONE
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[Costume Shop]] || 1 || 0.62 || 0.62
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|-
+| [[Zoo]] || 1 || 1.64 || 0.33
+|}
+
+~~~ White Hoodie~~~DONE
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|-
+| [[Zoo]] || 1 || 1.64 || 0.33
+|}
+
+~~~ Navy Hoodie~~~DONE
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|}
+
+~~~ Red Hoodie~~~DONE
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
 |-
 | [[University]] || 1 || 1.56 || 0.62
 |}
@@ -1455,7 +1622,7 @@
 
 
 
-~~~ Blue Baseball Cap~~~
+~~~ Blue Baseball Cap~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1480,7 +1647,7 @@
 
 
 
-~~~ Blue Crop Top~~~
+~~~ Blue Crop Top~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1493,31 +1660,6 @@
 | [[Apartment Building]] || 1 || 0.95 || 0.38
 |-
 | [[Mall]] || 1 || 0.64 || 0.19
-|}
-
-
-
-~~~ Blue Hoodie~~~
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
-|-
-| [[University]] || 1 || 1.56 || 0.62
 |}
 
 
@@ -1586,31 +1728,6 @@
 | [[Tea House]] || 2 || 3.45 || 1.03
 |-
 | [[Ward of Respite]] || 3 || 1.74 || 0.52
-|}
-
-
-
-~~~ Brown Hoodie~~~
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
-|-
-| [[University]] || 1 || 1.56 || 0.62
 |}
 
 
@@ -1906,7 +2023,7 @@
 
 
 
-~~~ Green Baseball Cap~~~
+~~~ Green Baseball Cap~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1925,33 +2042,6 @@
 | [[Mall]] || 1 || 0.64 || 0.19
 |-
 | [[Sporting Goods Store]] || 10 || 1.72 || 0.52
-|-
-| [[University]] || 1 || 1.56 || 0.62
-|-
-| [[Zoo]] || 1 || 1.64 || 0.33
-|}
-
-
-
-~~~ Green Hoodie~~~
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
 |-
 | [[University]] || 1 || 1.56 || 0.62
 |-
@@ -1983,7 +2073,7 @@
 
 
 
-~~~ Grey Crop Top~~~
+~~~ Grey Crop Top~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1998,35 +2088,6 @@
 | [[Freighter]] || 1 || 0.64 || 0.19
 |-
 | [[Mall]] || 1 || 0.64 || 0.19
-|}
-
-
-
-~~~ Grey Hoodie~~~
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[Costume Shop]] || 1 || 0.62 || 0.62
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
-|-
-| [[University]] || 1 || 1.56 || 0.62
-|-
-| [[Zoo]] || 1 || 1.64 || 0.33
 |}
 
 
@@ -2383,7 +2444,7 @@
 |}
 
 
-~~~ Leopard-Print Cowboy Hat~~~
+~~~ Leopard-Print Cowboy Hat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2505,30 +2566,6 @@
 | [[Bridge Column]] || 2 || 3.77 || 0.38
 |-
 | [[Ruined Bridge]] || 2 || 3.77 || 0.38
-|}
-
-
-~~~ Navy Hoodie~~~
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
-|-
-| [[University]] || 1 || 1.56 || 0.62
 |}
 
 
@@ -3605,7 +3642,7 @@
 |}
 
 
-~~~ Pink Cowboy Hat~~~
+~~~ Pink Cowboy Hat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3820,7 +3857,7 @@
 |}
 
 
-~~~ Red Baseball Cap~~~
+~~~ Red Baseball Cap~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3845,7 +3882,7 @@
 
 
 
-~~~ Red Crop Top~~~
+~~~ Red Crop Top~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3860,28 +3897,6 @@
 | [[Mall]] || 1 || 0.64 || 0.19
 |}
 
-
-
-~~~ Red Hoodie~~~
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[University]] || 1 || 1.56 || 0.62
-|}
 
 
 
@@ -3927,7 +3942,7 @@
 
 
 
-~~~ Tan Cowboy Hat~~~
+~~~ Tan Cowboy Hat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3948,7 +3963,7 @@
 
 
 
-~~~ White Baseball Cap~~~
+~~~ White Baseball Cap~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3996,7 +4011,7 @@
 
 
 
-~~~ White Cowboy Hat~~~
+~~~ White Cowboy Hat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4017,7 +4032,7 @@
 
 
 
-~~~ White Crop Top~~~
+~~~ White Crop Top~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4030,33 +4045,6 @@
 | [[Apartment Building]] || 1 || 0.95 || 0.38
 |-
 | [[Mall]] || 1 || 0.64 || 0.19
-|}
-
-
-
-~~~ White Hoodie~~~
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
-|-
-| [[University]] || 1 || 1.56 || 0.62
-|-
-| [[Zoo]] || 1 || 1.64 || 0.33
 |}
 
 
@@ -4139,7 +4127,7 @@
 
 
 
-~~~ Yellow Baseball Cap~~~
+~~~ Yellow Baseball Cap~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14650,7 +14638,7 @@
 
 
 
-~~~ Camo Crop Top~~~
+~~~ Camo Crop Top~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
