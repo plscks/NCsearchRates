@@ -29,17 +29,17 @@ def wikiOutParse(masterItemRates):
                 insideOutput.append(f'| [[{location[0]}]] || {location[1][1]} || {round(location[1][2], 2)} || {round(location[1][0], 2)}\n')
             insideOutput.append('|}\n')
         if outsideItemDict:
-            insideOutput.append('{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"\n')
-            insideOutput.append('|-style="background:#4E387E; color:white"\n')
-            insideOutput.append('|+ Outside\n')
-            insideOutput.append('!style="width:150px"|Location\n')
-            insideOutput.append('!style="width:10px"|Find Weight\n')
-            insideOutput.append('!style="width:10px"|% Chance\n')
-            insideOutput.append('!style="width:10px"|% Chance / AP\n')
-            for location in insideItemDict.items():
-                insideOutput.append('|-\n')
-                insideOutput.append(f'| [[{location[0]}]] || {location[1][1]} || {round(location[1][2], 2)} || {round(location[1][0], 2)}\n')
-            insideOutput.append('|}\n')
+            outsideOutput.append('{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"\n')
+            outsideOutput.append('|-style="background:#4E387E; color:white"\n')
+            outsideOutput.append('|+ Outside\n')
+            outsideOutput.append('!style="width:150px"|Location\n')
+            outsideOutput.append('!style="width:10px"|Find Weight\n')
+            outsideOutput.append('!style="width:10px"|% Chance\n')
+            outsideOutput.append('!style="width:10px"|% Chance / AP\n')
+            for location in outsideItemDict.items():
+                outsideOutput.append('|-\n')
+                outsideOutput.append(f'| [[{location[0]}]] || {location[1][1]} || {round(location[1][2], 2)} || {round(location[1][0], 2)}\n')
+            outsideOutput.append('|}\n')
         with open('wikiItemTables.txt', 'a') as file:
             file.write(f'~~~ {itemName}~~~\n')
             file.write('\n')
@@ -48,6 +48,8 @@ def wikiOutParse(masterItemRates):
             file.write('\n')
             for line in outsideOutput:
                 file.write(line)
+            file.write('\n')
+            file.write('\n')
 
 print('Writing item tables to file...')
 wikiOutParse(masterItemRates)
