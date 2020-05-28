@@ -4003,7 +4003,7 @@
 
 
 
-~~~ White Cotton Bathrobe~~~
+~~~ White Cotton Bathrobe~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4150,7 +4150,7 @@
 
 
 
-~~~ Yellow Cotton Bathrobe~~~
+~~~ Yellow Cotton Bathrobe~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4213,7 +4213,7 @@
 
 
 
-~~~ Battery~~~
+~~~ Battery~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4278,7 +4278,7 @@
 |}
 
 
-~~~ Book~~~
+~~~ Book~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4335,7 +4335,7 @@
 
 
 
-~~~ Piece of Chalk~~~
+~~~ Piece of Chalk~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4416,7 +4416,7 @@
 |}
 
 
-~~~ Silver Ingot~~~
+~~~ Silver Ingot~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4447,7 +4447,7 @@
 
 
 
-~~~ Watch~~~
+~~~ Watch~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4500,7 +4500,7 @@
 |}
 
 
-~~~ Candy Bar~~~
+~~~ Candy Bar~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4551,7 +4551,7 @@
 |}
 
 
-~~~ Lab Coat~~~
+~~~ Lab Coat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4584,7 +4584,7 @@
 |}
 
 
-~~~ Pair of Scrub Pants~~~
+~~~ Pair of Scrub Pants~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4603,7 +4603,7 @@
 
 
 
-~~~ Scrub Top~~~
+~~~ Scrub Top~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4622,7 +4622,7 @@
 
 
 
-~~~ Eyepatch~~~
+~~~ Eyepatch~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4649,7 +4649,11 @@
 |}
 
 
-~~~ Towel~~~
+~~~ Towel~~~DONE
+==Towel==
+''This is a medium-sized terrycloth towel. Always have it with you.''
+
+'''Weight:''' 1
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4696,7 +4700,7 @@
 |}
 
 
-~~~ Dose of Painkillers~~~
+~~~ Dose of Painkillers~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4719,7 +4723,7 @@
 
 
 
-~~~ Stethoscope~~~
+~~~ Stethoscope~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4736,7 +4740,7 @@
 
 
 
-~~~ Small Blue Gem~~~
+~~~ Small Blue Gem~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4759,7 +4763,7 @@
 
 
 
-~~~ Small Brown Gem~~~
+~~~ Small Brown Gem~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4820,7 +4824,7 @@
 |}
 
 
-~~~ Small Green Gem~~~
+~~~ Small Green Gem~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4901,7 +4905,7 @@
 |}
 
 
-~~~ Small Orange Gem~~~
+~~~ Small Orange Gem~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4980,7 +4984,7 @@
 |}
 
 
-~~~ Small Purple Gem~~~
+~~~ Small Purple Gem~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5059,7 +5063,7 @@
 |}
 
 
-~~~ Small Red Gem~~~
+~~~ Small Red Gem~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5138,7 +5142,7 @@
 |}
 
 
-~~~ Small White Gem~~~
+~~~ Small White Gem~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -7458,7 +7462,7 @@
 |}
 
 
-~~~ Small Black Gem~~~
+~~~ Small Black Gem~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -12290,7 +12294,7 @@
 |}
 
 
-~~~ Small Yellow Gem~~~
+~~~ Small Yellow Gem~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -12333,7 +12337,7 @@
 |}
 
 
-~~~ Small Opalescent Gem~~~
+~~~ Small Opalescent Gem~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -13834,7 +13838,7 @@
 |}
 
 
-~~~ Thin Cotton Bathrobe~~~
+~~~ Thin Cotton Bathrobe~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
