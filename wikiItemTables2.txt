@@ -1,4 +1,4 @@
-~~~ Bottle of Whiskey~~~ DONE
+~~~ Bottle of Whiskey~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -49,7 +49,7 @@
 |}
 
 
-~~~ Fuel Can~~~DONE
+~~~ Fuel Can~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -96,7 +96,7 @@
 |}
 
 
-~~~ Newspaper~~~DONE
+~~~ Newspaper~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -277,7 +277,7 @@
 |}
 
 
-~~~ Pack of Cigarettes~~~DONE
+~~~ Pack of Cigarettes~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -420,7 +420,7 @@
 |}
 
 
-~~~ Book of Matches~~~DONE
+~~~ Book of Matches~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -549,7 +549,7 @@
 |}
 
 
-~~~ Piece of Wood~~~DONE
+~~~ Piece of Wood~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -826,7 +826,7 @@
 |}
 
 
-~~~ Rock~~~DONE
+~~~ Rock~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1115,7 +1115,7 @@
 |}
 
 
-~~~ Apple~~~DONE
+~~~ Apple~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1164,7 +1164,7 @@
 |}
 
 
-~~~ Axe~~~DONE
+~~~ Axe~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1207,7 +1207,7 @@
 |}
 
 
-~~~ Banana~~~DONE
+~~~ Banana~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1258,7 +1258,7 @@
 |}
 
 
-~~~ Baseball Bat~~~DONE
+~~~ Baseball Bat~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1285,7 +1285,7 @@
 
 
 
-~~~ Black Baseball Cap~~~DONE
+~~~ Black Baseball Cap~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1310,7 +1310,7 @@
 
 
 
-~~~ Black Cowboy Hat~~~DONE
+~~~ Black Cowboy Hat~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1331,7 +1331,7 @@
 
 
 
-~~~ Black Crop Top~~~DONE
+~~~ Black Crop Top~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1348,30 +1348,7 @@
 
 
 
-~~~ Black Hoodie~~~DONE
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
-|-
-| [[University]] || 1 || 1.56 || 0.62
-|}
-
-~~~ Blue Hoodie~~~DONE
+~~~ Black Hoodie~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1394,187 +1371,9 @@
 | [[University]] || 1 || 1.56 || 0.62
 |}
 
-~~~ Brown Hoodie~~~DONE
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
-|-
-| [[University]] || 1 || 1.56 || 0.62
-|}
-
-~~~ Green Hoodie~~~DONE
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
-|-
-| [[University]] || 1 || 1.56 || 0.62
-|-
-| [[Zoo]] || 1 || 1.64 || 0.33
-|}
-
-~~~ Grey Hoodie~~~DONE
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[Costume Shop]] || 1 || 0.62 || 0.62
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
-|-
-| [[University]] || 1 || 1.56 || 0.62
-|-
-| [[Zoo]] || 1 || 1.64 || 0.33
-|}
-
-~~~ White Hoodie~~~DONE
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
-|-
-| [[University]] || 1 || 1.56 || 0.62
-|-
-| [[Zoo]] || 1 || 1.64 || 0.33
-|}
-
-~~~ Navy Hoodie~~~DONE
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[Stadium]] || 1 || 1.54 || 0.23
-|-
-| [[University]] || 1 || 1.56 || 0.62
-|}
-
-~~~ Red Hoodie~~~DONE
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|-
-| [[Slum]] || 1 || 1.75 || 0.18
-|-
-| [[University]] || 1 || 1.56 || 0.62
-|}
 
 
-
-~~~ Black Ribbed Sweater~~~DONE
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|}
-
-~~~ White Ribbed Sweater~~~DONE
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Apartment Building]] || 1 || 0.95 || 0.38
-|-
-| [[House]] || 1 || 0.93 || 0.28
-|-
-| [[Mall]] || 1 || 0.64 || 0.19
-|}
-
-~~~ Grey Ribbed Sweater~~~DONE
+~~~ Black Ribbed Sweater~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1593,7 +1392,7 @@
 
 
 
-~~~ Black Sleeveless T-Shirt~~~DONE
+~~~ Black Sleeveless T-Shirt~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1614,7 +1413,7 @@
 
 
 
-~~~ Black Sweatshirt~~~DONE
+~~~ Black Sweatshirt~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1637,7 +1436,7 @@
 
 
 
-~~~ Black Wool Scarf~~~DONE
+~~~ Black Wool Scarf~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1656,7 +1455,7 @@
 
 
 
-~~~ Blue Baseball Cap~~~DONE
+~~~ Blue Baseball Cap~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1681,7 +1480,7 @@
 
 
 
-~~~ Blue Crop Top~~~DONE
+~~~ Blue Crop Top~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1698,7 +1497,32 @@
 
 
 
-~~~ Blue Sweatshirt~~~DONE
+~~~ Blue Hoodie~~~
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|}
+
+
+
+~~~ Blue Sweatshirt~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1721,7 +1545,7 @@
 
 
 
-~~~ Bottle of Wine~~~DONE
+~~~ Bottle of Wine~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1766,7 +1590,32 @@
 
 
 
-~~~ Brown Sweatshirt~~~DONE
+~~~ Brown Hoodie~~~
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|}
+
+
+
+~~~ Brown Sweatshirt~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1789,7 +1638,7 @@
 
 
 
-~~~ Brown Wool Scarf~~~DONE
+~~~ Brown Wool Scarf~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1808,7 +1657,7 @@
 
 
 
-~~~ Can of Chicken Soup~~~DONE
+~~~ Can of Chicken Soup~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1845,7 +1694,7 @@
 
 
 
-~~~ Can of Creamed Corn~~~DONE
+~~~ Can of Creamed Corn~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1892,7 +1741,7 @@
 |}
 
 
-~~~ Can of Tomato Soup~~~DONE
+~~~ Can of Tomato Soup~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1927,7 +1776,7 @@
 
 
 
-~~~ Chainsaw~~~DONE
+~~~ Chainsaw~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -1948,7 +1797,7 @@
 
 
 
-~~~ First Aid Kit~~~DONE
+~~~ First Aid Kit~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2001,7 +1850,7 @@
 |}
 
 
-~~~ Frying Pan~~~DONE
+~~~ Frying Pan~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2030,7 +1879,7 @@
 
 
 
-~~~ Golf Club~~~DONE
+~~~ Golf Club~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2057,7 +1906,7 @@
 
 
 
-~~~ Green Baseball Cap~~~DONE
+~~~ Green Baseball Cap~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2084,7 +1933,34 @@
 
 
 
-~~~ Green Sweatshirt~~~DONE
+~~~ Green Hoodie~~~
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|-
+| [[Zoo]] || 1 || 1.64 || 0.33
+|}
+
+
+
+~~~ Green Sweatshirt~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2107,7 +1983,7 @@
 
 
 
-~~~ Grey Crop Top~~~DONE
+~~~ Grey Crop Top~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2126,7 +2002,55 @@
 
 
 
-~~~ Grey Sweatshirt~~~DONE
+~~~ Grey Hoodie~~~
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[Costume Shop]] || 1 || 0.62 || 0.62
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|-
+| [[Zoo]] || 1 || 1.64 || 0.33
+|}
+
+
+
+~~~ Grey Ribbed Sweater~~~
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|}
+
+
+
+~~~ Grey Sweatshirt~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2149,7 +2073,7 @@
 
 
 
-~~~ Grey Wool Scarf~~~DONE
+~~~ Grey Wool Scarf~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2172,7 +2096,7 @@
 
 
 
-~~~ Handful of Strawberries~~~DONE
+~~~ Handful of Strawberries~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2217,7 +2141,7 @@
 |}
 
 
-~~~ Kiwi~~~DONE
+~~~ Kiwi~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2260,7 +2184,7 @@
 |}
 
 
-~~~ Lemon~~~DONE
+~~~ Lemon~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2313,7 +2237,7 @@
 |}
 
 
-~~~ Length of Chain~~~DONE
+~~~ Length of Chain~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2404,7 +2328,7 @@
 |}
 
 
-~~~ Length of Rope~~~DONE
+~~~ Length of Rope~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2459,7 +2383,7 @@
 |}
 
 
-~~~ Leopard-Print Cowboy Hat~~~DONE
+~~~ Leopard-Print Cowboy Hat~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2482,7 +2406,7 @@
 
 
 
-~~~ Lime~~~DONE
+~~~ Lime~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2535,7 +2459,7 @@
 |}
 
 
-~~~ Magic Marker~~~DONE
+~~~ Magic Marker~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2584,8 +2508,32 @@
 |}
 
 
+~~~ Navy Hoodie~~~
 
-~~~ Orange~~~DONE
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|}
+
+
+
+~~~ Orange~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2632,7 +2580,7 @@
 |}
 
 
-~~~ Pair of Black Cargo Shorts~~~DONE
+~~~ Pair of Black Cargo Shorts~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2657,7 +2605,7 @@
 
 
 
-~~~ Pair of Black Denim Jeans~~~DONE
+~~~ Pair of Black Denim Jeans~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2684,7 +2632,7 @@
 
 
 
-~~~ Pair of Black High-Heeled Shoes~~~DONE
+~~~ Pair of Black High-Heeled Shoes~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2721,7 +2669,7 @@
 |}
 
 
-~~~ Pair of Black High-Tops~~~DONE
+~~~ Pair of Black High-Tops~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2752,7 +2700,7 @@
 
 
 
-~~~ Pair of Black Leather Chaps~~~DONE
+~~~ Pair of Black Leather Chaps~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2779,7 +2727,7 @@
 |}
 
 
-~~~ Pair of Black Leather Pumps~~~DONE
+~~~ Pair of Black Leather Pumps~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2810,7 +2758,7 @@
 
 
 
-~~~ Pair of Black Leather Shoes~~~DONE
+~~~ Pair of Black Leather Shoes~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2837,7 +2785,7 @@
 
 
 
-~~~ Pair of Black Low-Tops~~~DONE
+~~~ Pair of Black Low-Tops~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2866,7 +2814,7 @@
 
 
 
-~~~ Pair of Brown Leather Shoes~~~DONE
+~~~ Pair of Brown Leather Shoes~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2905,7 +2853,7 @@
 |}
 
 
-~~~ Pair of Dark Blue Denim Jeans~~~DONE
+~~~ Pair of Dark Blue Denim Jeans~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2932,7 +2880,7 @@
 
 
 
-~~~ Pair of Flip-Flops~~~DONE
+~~~ Pair of Flip-Flops~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2963,7 +2911,7 @@
 
 
 
-~~~ Pair of Green High-Tops~~~DONE
+~~~ Pair of Green High-Tops~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -2990,7 +2938,7 @@
 
 
 
-~~~ Pair of Green Low-Tops~~~DONE
+~~~ Pair of Green Low-Tops~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3017,7 +2965,7 @@
 
 
 
-~~~ Pair of Grey Cargo Shorts~~~DONE
+~~~ Pair of Grey Cargo Shorts~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3040,7 +2988,7 @@
 
 
 
-~~~ Pair of Grey High-Tops~~~DONE
+~~~ Pair of Grey High-Tops~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3067,7 +3015,7 @@
 
 
 
-~~~ Pair of Grey Low-Tops~~~DONE
+~~~ Pair of Grey Low-Tops~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3094,7 +3042,7 @@
 
 
 
-~~~ Pair of Khaki Cargo Shorts~~~DONE
+~~~ Pair of Khaki Cargo Shorts~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3117,7 +3065,7 @@
 
 
 
-~~~ Pair of Leather Sandals~~~DONE
+~~~ Pair of Leather Sandals~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3162,7 +3110,7 @@
 |}
 
 
-~~~ Pair of Light Blue Denim Jeans~~~DONE
+~~~ Pair of Light Blue Denim Jeans~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3189,7 +3137,7 @@
 
 
 
-~~~ Pair of Red High-Heeled Shoes~~~DONE
+~~~ Pair of Red High-Heeled Shoes~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3216,7 +3164,7 @@
 
 
 
-~~~ Pair of Red High-Tops~~~DONE
+~~~ Pair of Red High-Tops~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3243,7 +3191,7 @@
 
 
 
-~~~ Pair of Red Leather Pumps~~~DONE
+~~~ Pair of Red Leather Pumps~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3282,7 +3230,7 @@
 |}
 
 
-~~~ Pair of Red Low-Tops~~~DONE
+~~~ Pair of Red Low-Tops~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3309,7 +3257,7 @@
 
 
 
-~~~ Pair of Sunglasses~~~DONE
+~~~ Pair of Sunglasses~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3332,7 +3280,7 @@
 
 
 
-~~~ Pair of White Cargo Shorts~~~DONE
+~~~ Pair of White Cargo Shorts~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3353,7 +3301,7 @@
 
 
 
-~~~ Pair of White Denim Jeans~~~DONE
+~~~ Pair of White Denim Jeans~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3376,7 +3324,7 @@
 
 
 
-~~~ Pair of White High-Heeled Shoes~~~DONE
+~~~ Pair of White High-Heeled Shoes~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3403,7 +3351,7 @@
 
 
 
-~~~ Pair of White High-Tops~~~DONE
+~~~ Pair of White High-Tops~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3432,7 +3380,7 @@
 
 
 
-~~~ Pair of White Leather Pumps~~~DONE
+~~~ Pair of White Leather Pumps~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3457,7 +3405,7 @@
 
 
 
-~~~ Pair of White Leather Shoes~~~DONE
+~~~ Pair of White Leather Shoes~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3494,7 +3442,7 @@
 |}
 
 
-~~~ Pair of White Low-Tops~~~DONE
+~~~ Pair of White Low-Tops~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3521,7 +3469,7 @@
 
 
 
-~~~ Pair of White Socks~~~DONE
+~~~ Pair of White Socks~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3540,7 +3488,7 @@
 
 
 
-~~~ Pair of Wraparound Sunglasses~~~DONE
+~~~ Pair of Wraparound Sunglasses~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3567,7 +3515,7 @@
 
 
 
-~~~ Peach~~~DONE
+~~~ Peach~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3612,7 +3560,7 @@
 |}
 
 
-~~~ Pear~~~DONE
+~~~ Pear~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3657,7 +3605,7 @@
 |}
 
 
-~~~ Pink Cowboy Hat~~~DONE
+~~~ Pink Cowboy Hat~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3678,7 +3626,7 @@
 
 
 
-~~~ Pistol Clip~~~DONE
+~~~ Pistol Clip~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3731,7 +3679,7 @@
 |}
 
 
-~~~ Pistol~~~DONE
+~~~ Pistol~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3784,7 +3732,7 @@
 |}
 
 
-~~~ Purple Sweatshirt~~~DONE
+~~~ Purple Sweatshirt~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3807,7 +3755,7 @@
 
 
 
-~~~ Radio~~~DONE
+~~~ Radio~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3872,7 +3820,7 @@
 |}
 
 
-~~~ Red Baseball Cap~~~DONE
+~~~ Red Baseball Cap~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3897,7 +3845,7 @@
 
 
 
-~~~ Red Crop Top~~~DONE
+~~~ Red Crop Top~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3914,8 +3862,7 @@
 
 
 
-
-~~~ Red Sweatshirt~~~DONE
+~~~ Red Hoodie~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3938,7 +3885,30 @@
 
 
 
-~~~ Red Wool Scarf~~~DONE
+~~~ Red Sweatshirt~~~
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|}
+
+
+
+~~~ Red Wool Scarf~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3957,7 +3927,7 @@
 
 
 
-~~~ Tan Cowboy Hat~~~DONE
+~~~ Tan Cowboy Hat~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -3978,7 +3948,7 @@
 
 
 
-~~~ White Baseball Cap~~~DONE
+~~~ White Baseball Cap~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4003,7 +3973,7 @@
 
 
 
-~~~ White Cotton Bathrobe~~~DONE
+~~~ White Cotton Bathrobe~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4026,7 +3996,7 @@
 
 
 
-~~~ White Cowboy Hat~~~DONE
+~~~ White Cowboy Hat~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4047,7 +4017,7 @@
 
 
 
-~~~ White Crop Top~~~DONE
+~~~ White Crop Top~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4064,7 +4034,53 @@
 
 
 
-~~~ White Sleeveless T-Shirt~~~DONE
+~~~ White Hoodie~~~
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|-
+| [[Slum]] || 1 || 1.75 || 0.18
+|-
+| [[Stadium]] || 1 || 1.54 || 0.23
+|-
+| [[University]] || 1 || 1.56 || 0.62
+|-
+| [[Zoo]] || 1 || 1.64 || 0.33
+|}
+
+
+
+~~~ White Ribbed Sweater~~~
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Apartment Building]] || 1 || 0.95 || 0.38
+|-
+| [[House]] || 1 || 0.93 || 0.28
+|-
+| [[Mall]] || 1 || 0.64 || 0.19
+|}
+
+
+
+~~~ White Sleeveless T-Shirt~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4081,7 +4097,7 @@
 
 
 
-~~~ White Sweatshirt~~~DONE
+~~~ White Sweatshirt~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4104,7 +4120,7 @@
 
 
 
-~~~ White Wool Scarf~~~DONE
+~~~ White Wool Scarf~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4123,7 +4139,7 @@
 
 
 
-~~~ Yellow Baseball Cap~~~DONE
+~~~ Yellow Baseball Cap~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4150,7 +4166,7 @@
 
 
 
-~~~ Yellow Cotton Bathrobe~~~DONE
+~~~ Yellow Cotton Bathrobe~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4171,7 +4187,7 @@
 
 
 
-~~~ Yellow Sweatshirt~~~DONE
+~~~ Yellow Sweatshirt~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4194,7 +4210,7 @@
 
 
 
-~~~ Yellow Wool Scarf~~~DONE
+~~~ Yellow Wool Scarf~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4213,7 +4229,7 @@
 
 
 
-~~~ Battery~~~DONE
+~~~ Battery~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4278,7 +4294,7 @@
 |}
 
 
-~~~ Book~~~DONE
+~~~ Book~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4335,7 +4351,7 @@
 
 
 
-~~~ Piece of Chalk~~~DONE
+~~~ Piece of Chalk~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4416,7 +4432,7 @@
 |}
 
 
-~~~ Silver Ingot~~~DONE
+~~~ Silver Ingot~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4447,7 +4463,7 @@
 
 
 
-~~~ Watch~~~DONE
+~~~ Watch~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4500,7 +4516,7 @@
 |}
 
 
-~~~ Candy Bar~~~DONE
+~~~ Candy Bar~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4551,7 +4567,7 @@
 |}
 
 
-~~~ Lab Coat~~~DONE
+~~~ Lab Coat~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4584,7 +4600,7 @@
 |}
 
 
-~~~ Pair of Scrub Pants~~~DONE
+~~~ Pair of Scrub Pants~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4603,7 +4619,7 @@
 
 
 
-~~~ Scrub Top~~~DONE
+~~~ Scrub Top~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4622,7 +4638,7 @@
 
 
 
-~~~ Eyepatch~~~DONE
+~~~ Eyepatch~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4649,11 +4665,7 @@
 |}
 
 
-~~~ Towel~~~DONE
-==Towel==
-''This is a medium-sized terrycloth towel. Always have it with you.''
-
-'''Weight:''' 1
+~~~ Towel~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4700,7 +4712,7 @@
 |}
 
 
-~~~ Dose of Painkillers~~~DONE
+~~~ Dose of Painkillers~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4723,7 +4735,7 @@
 
 
 
-~~~ Stethoscope~~~DONE
+~~~ Stethoscope~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4740,7 +4752,7 @@
 
 
 
-~~~ Small Blue Gem~~~DONE
+~~~ Small Blue Gem~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4763,7 +4775,7 @@
 
 
 
-~~~ Small Brown Gem~~~DONE
+~~~ Small Brown Gem~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4824,7 +4836,7 @@
 |}
 
 
-~~~ Small Green Gem~~~DONE
+~~~ Small Green Gem~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4905,7 +4917,7 @@
 |}
 
 
-~~~ Small Orange Gem~~~DONE
+~~~ Small Orange Gem~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -4984,7 +4996,7 @@
 |}
 
 
-~~~ Small Purple Gem~~~DONE
+~~~ Small Purple Gem~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5063,7 +5075,7 @@
 |}
 
 
-~~~ Small Red Gem~~~DONE
+~~~ Small Red Gem~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5142,7 +5154,7 @@
 |}
 
 
-~~~ Small White Gem~~~DONE
+~~~ Small White Gem~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5207,7 +5219,7 @@
 |}
 
 
-~~~ Pair of Bionic Eyes~~~DONE
+~~~ Pair of Bionic Eyes~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5222,7 +5234,7 @@
 
 
 
-~~~ Bionic Hand~~~DONE
+~~~ Bionic Hand~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5237,7 +5249,7 @@
 
 
 
-~~~ Bionic Leg ~~~DONE
+~~~ Bionic Leg ~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5252,7 +5264,7 @@
 
 
 
-~~~ Fishing Pole~~~DONE
+~~~ Fishing Pole~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5287,7 +5299,7 @@
 |}
 
 
-~~~ Bottle of Rum~~~DONE
+~~~ Bottle of Rum~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5334,7 +5346,7 @@
 |}
 
 
-~~~ Crab~~~DONE
+~~~ Crab~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5363,7 +5375,7 @@
 |}
 
 
-~~~ Shotgun Shell~~~DONE
+~~~ Shotgun Shell~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5394,7 +5406,7 @@
 
 
 
-~~~ Clam~~~DONE
+~~~ Clam~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5425,7 +5437,7 @@
 |}
 
 
-~~~ Fishing Bait~~~DONE
+~~~ Fishing Bait~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5442,7 +5454,7 @@
 
 
 
-~~~ Apple Pie~~~DONE
+~~~ Apple Pie~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5461,7 +5473,7 @@
 
 
 
-~~~ Blueberry Pie~~~DONE
+~~~ Blueberry Pie~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5480,7 +5492,7 @@
 
 
 
-~~~ Rhubarb Pie~~~DONE
+~~~ Rhubarb Pie~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5495,7 +5507,7 @@
 
 
 
-~~~ Slice of Strawberry Shortcake~~~DONE
+~~~ Slice of Strawberry Shortcake~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5514,7 +5526,7 @@
 
 
 
-~~~ Whipped Cream Pie~~~DONE
+~~~ Whipped Cream Pie~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5531,7 +5543,7 @@
 
 
 
-~~~ Linen Apron~~~DONE
+~~~ Linen Apron~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5558,7 +5570,7 @@
 |}
 
 
-~~~ Scone~~~DONE
+~~~ Scone~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5575,7 +5587,7 @@
 
 
 
-~~~ Cookie~~~DONE
+~~~ Cookie~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5590,7 +5602,7 @@
 
 
 
-~~~ Pumpkin Pie~~~DONE
+~~~ Pumpkin Pie~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5607,7 +5619,7 @@
 
 
 
-~~~ Cup of Tea~~~DONE
+~~~ Cup of Tea~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5634,7 +5646,7 @@
 
 
 
-~~~ Butterscotch Pie~~~DONE
+~~~ Butterscotch Pie~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5651,7 +5663,7 @@
 
 
 
-~~~ Bunch of Daisies~~~DONE
+~~~ Bunch of Daisies~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5720,7 +5732,7 @@
 |}
 
 
-~~~ Gold Ingot~~~DONE
+~~~ Gold Ingot~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5769,7 +5781,7 @@
 |}
 
 
-~~~ Monocle~~~DONE
+~~~ Monocle~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5792,7 +5804,7 @@
 
 
 
-~~~ Bespoke Suit Jacket~~~DONE
+~~~ Bespoke Suit Jacket~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5821,7 +5833,7 @@
 |}
 
 
-~~~ Black Ski Mask~~~DONE
+~~~ Black Ski Mask~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5838,7 +5850,7 @@
 
 
 
-~~~ Absinthe~~~DONE
+~~~ Absinthe~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5853,7 +5865,7 @@
 
 
 
-~~~ Bottle of Beer~~~DONE
+~~~ Bottle of Beer~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5894,7 +5906,7 @@
 |}
 
 
-~~~ Bottle of Bourbon~~~DONE
+~~~ Bottle of Bourbon~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5929,7 +5941,7 @@
 |}
 
 
-~~~ Bottle of Champagne~~~DONE
+~~~ Bottle of Champagne~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -5968,7 +5980,7 @@
 |}
 
 
-~~~ Bottle of Port~~~DONE
+~~~ Bottle of Port~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6003,7 +6015,7 @@
 |}
 
 
-~~~ Bottle of Scotch~~~DONE
+~~~ Bottle of Scotch~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6038,7 +6050,7 @@
 |}
 
 
-~~~ Bottle of Vodka~~~DONE
+~~~ Bottle of Vodka~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6073,7 +6085,7 @@
 |}
 
 
-~~~ Grimy Sleeveless T-Shirt~~~DONE
+~~~ Grimy Sleeveless T-Shirt~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6094,7 +6106,7 @@
 
 
 
-~~~ Set of Brass Knuckles~~~DONE
+~~~ Set of Brass Knuckles~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6113,7 +6125,7 @@
 
 
 
-~~~ Set of Spiked Knuckles~~~DONE
+~~~ Set of Spiked Knuckles~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6132,7 +6144,7 @@
 
 
 
-~~~ Truncheon~~~DONE
+~~~ Truncheon~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6171,22 +6183,7 @@
 |}
 
 
-~~~ Black Pearl~~~DONE
-
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Outside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Beach]] || 1 || 0.95 || 0.19
-|}
-
-
-~~~ Empty Beer Bottle~~~DONE
+~~~ Empty Beer Bottle~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6221,22 +6218,7 @@
 |}
 
 
-~~~ White Pearl~~~DONE
-
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Outside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Beach]] || 1 || 0.95 || 0.19
-|}
-
-
-~~~ Bikini Top~~~DONE
+~~~ Bikini Top~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6267,78 +6249,7 @@
 |}
 
 
-~~~ Bikini Bottom~~~DONE
-
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Outside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Beach]] || 1 || 0.97 || 0.19
-|-
-| [[Lighthouse]] || 1 || 0.97 || 0.1
-|}
-
-
-~~~ Pair of Board Shorts~~~DONE
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Sporting Goods Store]] || 10 || 1.72 || 0.52
-|}
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Outside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Beach]] || 1 || 0.97 || 0.19
-|-
-| [[Lighthouse]] || 1 || 0.97 || 0.1
-|}
-
-
-~~~ One-Piece Swimsuit~~~DONE
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Sporting Goods Store]] || 10 || 1.72 || 0.52
-|}
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Outside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Beach]] || 1 || 0.97 || 0.19
-|-
-| [[Lighthouse]] || 1 || 0.97 || 0.1
-|}
-
-
-~~~ Flower-print Lavalava~~~DONE
+~~~ Flower-print Lavalava~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6367,7 +6278,78 @@
 |}
 
 
-~~~ Batch of Mushrooms~~~DONE
+~~~ Bikini Bottom~~~
+
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Outside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Beach]] || 1 || 0.97 || 0.19
+|-
+| [[Lighthouse]] || 1 || 0.97 || 0.1
+|}
+
+
+~~~ One-Piece Swimsuit~~~
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Sporting Goods Store]] || 10 || 1.72 || 0.52
+|}
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Outside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Beach]] || 1 || 0.97 || 0.19
+|-
+| [[Lighthouse]] || 1 || 0.97 || 0.1
+|}
+
+
+~~~ Pair of Board Shorts~~~
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Sporting Goods Store]] || 10 || 1.72 || 0.52
+|}
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Outside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Beach]] || 1 || 0.97 || 0.19
+|-
+| [[Lighthouse]] || 1 || 0.97 || 0.1
+|}
+
+
+~~~ Batch of Mushrooms~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6436,7 +6418,7 @@
 |}
 
 
-~~~ Bunch of Lilies~~~DONE
+~~~ Bunch of Lilies~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6489,7 +6471,7 @@
 |}
 
 
-~~~ Healing Herb~~~DONE
+~~~ Healing Herb~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6524,7 +6506,7 @@
 |}
 
 
-~~~ Patch of Lichen~~~DONE
+~~~ Patch of Lichen~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6607,7 +6589,7 @@
 |}
 
 
-~~~ Patch of Moss~~~DONE
+~~~ Patch of Moss~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6688,7 +6670,7 @@
 |}
 
 
-~~~ Rose~~~DONE
+~~~ Rose~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6737,7 +6719,7 @@
 |}
 
 
-~~~ Sprig of Nightshade~~~DONE
+~~~ Sprig of Nightshade~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6790,7 +6772,7 @@
 |}
 
 
-~~~ Blood Ice~~~DONE
+~~~ Blood Ice~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6837,7 +6819,7 @@
 |}
 
 
-~~~ Bottle of Fermented Blood~~~DONE
+~~~ Bottle of Fermented Blood~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -6888,7 +6870,7 @@
 
 
 
-~~~ Cat of Nine Tails~~~DONE
+~~~ Cat of Nine Tails~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -7462,7 +7444,7 @@
 |}
 
 
-~~~ Small Black Gem~~~DONE
+~~~ Small Black Gem~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11273,7 +11255,7 @@
 
 
 
-~~~ Black Leather Shoes~~~DONE
+~~~ Black Leather Shoes~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -12294,7 +12276,7 @@
 |}
 
 
-~~~ Small Yellow Gem~~~DONE
+~~~ Small Yellow Gem~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -12337,7 +12319,7 @@
 |}
 
 
-~~~ Small Opalescent Gem~~~DONE
+~~~ Small Opalescent Gem~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -13838,7 +13820,7 @@
 |}
 
 
-~~~ Thin Cotton Bathrobe~~~DONE
+~~~ Thin Cotton Bathrobe~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14638,7 +14620,7 @@
 
 
 
-~~~ Camo Crop Top~~~DONE
+~~~ Camo Crop Top~~~
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"

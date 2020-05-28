@@ -45,6 +45,7 @@ def getCleanLocations():
 
 def getItemRates(location, pageid):
     """Gets item find weight from locations pages"""
+    time.sleep(15)
     items = {}
     response = requests.get('https://wiki.nexuscla.sh/wiki/api.php?action=parse&format=json&prop=wikitext&pageid=' + str(pageid))
     if response.status_code == 200:
