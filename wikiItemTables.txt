@@ -8355,7 +8355,7 @@
 |}
 
 
-~~~ Wyrm Skull Hat~~~
+~~~ Wyrm Skull Hat~~~DONE
 
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
@@ -8370,7 +8370,7 @@
 |}
 
 
-~~~ Handful of Grave Dirt~~~
+~~~ Handful of Grave Dirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8399,7 +8399,7 @@
 |}
 
 
-~~~ Rotten Crossbow~~~
+~~~ Rotten Crossbow~~~DONE
 
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
@@ -8414,7 +8414,7 @@
 |}
 
 
-~~~ Black Cummerbund~~~
+~~~ Black Cummerbund~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8435,7 +8435,7 @@
 
 
 
-~~~ Black Fedora~~~
+~~~ Black Fedora~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8456,7 +8456,7 @@
 
 
 
-~~~ Black Tophat~~~
+~~~ Black Tophat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8477,7 +8477,7 @@
 
 
 
-~~~ Black Tuxedo Jacket~~~
+~~~ Black Tuxedo Jacket~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8498,7 +8498,7 @@
 
 
 
-~~~ Black Tuxedo Shirt~~~
+~~~ Black Tuxedo Shirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8519,7 +8519,7 @@
 
 
 
-~~~ Black Tuxedo Tie~~~
+~~~ Black Tuxedo Tie~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8540,7 +8540,7 @@
 
 
 
-~~~ Blue Cummerbund~~~
+~~~ Blue Cummerbund~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8561,7 +8561,7 @@
 
 
 
-~~~ Blue Tuxedo Tie~~~
+~~~ Blue Tuxedo Tie~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8582,7 +8582,7 @@
 
 
 
-~~~ Cane~~~
+~~~ Cane~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8613,7 +8613,7 @@
 
 
 
-~~~ Carving Knife~~~
+~~~ Carving Knife~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8646,7 +8646,7 @@
 |}
 
 
-~~~ Cutlass~~~
+~~~ Cutlass~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8679,7 +8679,7 @@
 |}
 
 
-~~~ Domino Mask~~~
+~~~ Domino Mask~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8698,7 +8698,7 @@
 
 
 
-~~~ Grey Fedora~~~
+~~~ Grey Fedora~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8721,7 +8721,7 @@
 
 
 
-~~~ Maid Uniform~~~
+~~~ Maid Uniform~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8752,7 +8752,7 @@
 |}
 
 
-~~~ Orange Sari~~~
+~~~ Orange Sari~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8781,7 +8781,7 @@
 |}
 
 
-~~~ Pair of Black Tuxedo Pants~~~
+~~~ Pair of Black Tuxedo Pants~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8802,7 +8802,7 @@
 
 
 
-~~~ Pair of Cleats~~~
+~~~ Pair of Cleats~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8829,7 +8829,7 @@
 
 
 
-~~~ Pair of Dress Pants~~~
+~~~ Pair of Dress Pants~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8862,7 +8862,7 @@
 |}
 
 
-~~~ Pair of Fluffy Bunny Slippers~~~
+~~~ Pair of Fluffy Bunny Slippers~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8883,7 +8883,7 @@
 
 
 
-~~~ Pair of Penny Loafers~~~
+~~~ Pair of Penny Loafers~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8908,7 +8908,7 @@
 
 
 
-~~~ Pair of Reading Glasses~~~
+~~~ Pair of Reading Glasses~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8925,7 +8925,7 @@
 
 
 
-~~~ Pair of Tights~~~
+~~~ Pair of Tights~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8956,7 +8956,7 @@
 |}
 
 
-~~~ Pair of White Tuxedo Pants~~~
+~~~ Pair of White Tuxedo Pants~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8979,7 +8979,7 @@
 
 
 
-~~~ Red Cummerbund~~~
+~~~ Red Cummerbund~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -8998,7 +8998,7 @@
 
 
 
-~~~ Red Tuxedo Tie~~~
+~~~ Red Tuxedo Tie~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9017,7 +9017,7 @@
 
 
 
-~~~ Saber~~~
+~~~ Saber~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9052,7 +9052,7 @@
 |}
 
 
-~~~ Violet Evening Gown~~~
+~~~ Violet Evening Gown~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9073,7 +9073,7 @@
 
 
 
-~~~ White Cheongsam~~~
+~~~ White Cheongsam~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9102,7 +9102,7 @@
 |}
 
 
-~~~ White Cummerbund~~~
+~~~ White Cummerbund~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9123,7 +9123,7 @@
 
 
 
-~~~ White Tuxedo Jacket~~~
+~~~ White Tuxedo Jacket~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9148,7 +9148,7 @@
 
 
 
-~~~ White Tuxedo Shirt~~~
+~~~ White Tuxedo Shirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9169,7 +9169,7 @@
 
 
 
-~~~ White Tuxedo Tie~~~
+~~~ White Tuxedo Tie~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9192,7 +9192,7 @@
 
 
 
-~~~ White Satin Corset~~~
+~~~ White Satin Corset~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9213,7 +9213,7 @@
 
 
 
-~~~ Black Satin Corset~~~
+~~~ Black Satin Corset~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9234,7 +9234,7 @@
 
 
 
-~~~ Pair of Riding Boots~~~
+~~~ Pair of Riding Boots~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9251,7 +9251,7 @@
 
 
 
-~~~ Black Tailcoat~~~
+~~~ Black Tailcoat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9274,7 +9274,7 @@
 
 
 
-~~~ Scarlet Evening Gown~~~
+~~~ Scarlet Evening Gown~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9293,7 +9293,7 @@
 
 
 
-~~~ Black Evening Gown~~~
+~~~ Black Evening Gown~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9314,7 +9314,7 @@
 
 
 
-~~~ Pair of Handgun Holsters~~~
+~~~ Pair of Handgun Holsters~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9331,7 +9331,7 @@
 
 
 
-~~~ Bottle of Holy Water~~~
+~~~ Bottle of Holy Water~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9358,7 +9358,7 @@
 
 
 
-~~~ Clerical Collar~~~
+~~~ Clerical Collar~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9375,7 +9375,7 @@
 
 
 
-~~~ Clerical Shirt~~~
+~~~ Clerical Shirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9392,7 +9392,7 @@
 
 
 
-~~~ Holy Book~~~
+~~~ Holy Book~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9439,7 +9439,7 @@
 |}
 
 
-~~~ Nuns Wimple~~~
+~~~ Nuns Wimple~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9456,7 +9456,7 @@
 
 
 
-~~~ Wedding Veil~~~
+~~~ Wedding Veil~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9487,7 +9487,7 @@
 |}
 
 
-~~~ Sapphire Angel Necklace~~~
+~~~ Sapphire Angel Necklace~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9512,7 +9512,7 @@
 |}
 
 
-~~~ White Wedding Dress~~~
+~~~ White Wedding Dress~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9543,7 +9543,7 @@
 |}
 
 
-~~~ Black Wedding Dress~~~
+~~~ Black Wedding Dress~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9572,7 +9572,7 @@
 |}
 
 
-~~~ Silver Ring~~~
+~~~ Silver Ring~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9587,24 +9587,7 @@
 
 
 
-~~~ Nuns Habit~~~
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Church]] || 5 || 1.92 || 0.38
-|-
-| [[Costume Shop]] || 1 || 0.62 || 0.62
-|}
-
-
-
-~~~ Monastic Habit~~~
+~~~ Nuns Habit~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9621,7 +9604,7 @@
 
 
 
-~~~ Clerical Robe~~~
+~~~ Monastic Habit~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9638,7 +9621,24 @@
 
 
 
-~~~ Ambrosia~~~
+~~~ Clerical Robe~~~DONE
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Church]] || 5 || 1.92 || 0.38
+|-
+| [[Costume Shop]] || 1 || 0.62 || 0.62
+|}
+
+
+
+~~~ Ambrosia~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9685,7 +9685,7 @@
 |}
 
 
-~~~ Bottle of Mead~~~
+~~~ Bottle of Mead~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9722,7 +9722,7 @@
 
 
 
-~~~ Bottle of Paradise Nectar~~~
+~~~ Bottle of Paradise Nectar~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9757,7 +9757,7 @@
 
 
 
-~~~ Bullwhip~~~
+~~~ Bullwhip~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9788,7 +9788,7 @@
 |}
 
 
-~~~ Vial of Angels Tears~~~
+~~~ Vial of Angels Tears~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9813,7 +9813,7 @@
 
 
 
-~~~ Can of Black Beans~~~
+~~~ Can of Black Beans~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9838,7 +9838,7 @@
 
 
 
-~~~ Can of Chili con Carne~~~
+~~~ Can of Chili con Carne~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9861,7 +9861,7 @@
 
 
 
-~~~ Can of Preserved Meat~~~
+~~~ Can of Preserved Meat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9892,7 +9892,7 @@
 
 
 
-~~~ Can of Green Beans~~~
+~~~ Can of Green Beans~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9919,7 +9919,7 @@
 
 
 
-~~~ Chunk of Brass~~~
+~~~ Chunk of Brass~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -9964,7 +9964,7 @@
 |}
 
 
-~~~ Chunk of Iron~~~
+~~~ Chunk of Iron~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10011,7 +10011,7 @@
 |}
 
 
-~~~ Small Bottle of Gunpowder~~~
+~~~ Small Bottle of Gunpowder~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10052,7 +10052,7 @@
 |}
 
 
-~~~ Bicorne Hat~~~
+~~~ Bicorne Hat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10079,7 +10079,7 @@
 |}
 
 
-~~~ Tricorne Hat~~~
+~~~ Tricorne Hat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10096,7 +10096,7 @@
 
 
 
-~~~ Lead Anchor~~~
+~~~ Lead Anchor~~~DONE
 
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
@@ -10111,7 +10111,7 @@
 |}
 
 
-~~~ Burgundy Tailcoat~~~
+~~~ Burgundy Tailcoat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10144,7 +10144,7 @@
 |}
 
 
-~~~ Bottle of Moonshine~~~
+~~~ Bottle of Moonshine~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10171,7 +10171,7 @@
 |}
 
 
-~~~ Dagger~~~
+~~~ Dagger~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10196,7 +10196,7 @@
 |}
 
 
-~~~ Can of Peaches~~~
+~~~ Can of Peaches~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10233,7 +10233,7 @@
 |}
 
 
-~~~ Can of Vegetable Soup~~~
+~~~ Can of Vegetable Soup~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10270,7 +10270,7 @@
 |}
 
 
-~~~ Pair of Overalls~~~
+~~~ Pair of Overalls~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10303,7 +10303,7 @@
 |}
 
 
-~~~ Donuts~~~
+~~~ Donuts~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10330,7 +10330,7 @@
 |}
 
 
-~~~ Ballet Tutu~~~
+~~~ Ballet Tutu~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10357,7 +10357,7 @@
 |}
 
 
-~~~ Black Beret~~~
+~~~ Black Beret~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10374,7 +10374,7 @@
 
 
 
-~~~ Black Robe~~~
+~~~ Black Robe~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10391,7 +10391,7 @@
 
 
 
-~~~ Blue Robe~~~
+~~~ Blue Robe~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10406,7 +10406,7 @@
 
 
 
-~~~ Blue Woolen Kepi~~~
+~~~ Blue Woolen Kepi~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10421,7 +10421,7 @@
 
 
 
-~~~ Blue Woolen Sack Coat~~~
+~~~ Blue Woolen Sack Coat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10436,7 +10436,7 @@
 
 
 
-~~~ Desert Camouflage Shirt~~~
+~~~ Desert Camouflage Shirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10453,7 +10453,7 @@
 
 
 
-~~~ Grey Woolen Kepi~~~
+~~~ Grey Woolen Kepi~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10470,7 +10470,7 @@
 
 
 
-~~~ Green Beret~~~
+~~~ Green Beret~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10487,7 +10487,7 @@
 
 
 
-~~~ Grey Woolen Sack Coat~~~
+~~~ Grey Woolen Sack Coat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10533,7 +10533,7 @@
 |}
 
 
-~~~ Jungle Camouflage Shirt~~~
+~~~ Jungle Camouflage Shirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10550,7 +10550,7 @@
 
 
 
-~~~ Military Officers Jacket~~~
+~~~ Military Officers Jacket~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10569,7 +10569,7 @@
 
 
 
-~~~ Military Officers Shirt~~~
+~~~ Military Officers Shirt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10588,7 +10588,7 @@
 
 
 
-~~~ Ninja mask~~~
+~~~ Ninja mask~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10603,7 +10603,7 @@
 
 
 
-~~~ Pair of Desert Camouflage Pants~~~
+~~~ Pair of Desert Camouflage Pants~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10620,7 +10620,7 @@
 
 
 
-~~~ Pair of Fingerless Gloves~~~
+~~~ Pair of Fingerless Gloves~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10649,7 +10649,7 @@
 |}
 
 
-~~~ Pair of Jungle Camouflage Pants~~~
+~~~ Pair of Jungle Camouflage Pants~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10666,7 +10666,7 @@
 
 
 
-~~~ Pair of Handcuffs~~~
+~~~ Pair of Handcuffs~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10683,7 +10683,7 @@
 
 
 
-~~~ Pair of Leather Gloves~~~
+~~~ Pair of Leather Gloves~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10714,7 +10714,7 @@
 |}
 
 
-~~~ Pair of Military Officers Slacks~~~
+~~~ Pair of Military Officers Slacks~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10731,7 +10731,7 @@
 
 
 
-~~~ Pair of Mittens~~~
+~~~ Pair of Mittens~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10746,7 +10746,7 @@
 
 
 
-~~~ Pair of Opalescent Eyelashes~~~
+~~~ Pair of Opalescent Eyelashes~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10761,7 +10761,7 @@
 
 
 
-~~~ Pair of Police Slacks~~~
+~~~ Pair of Police Slacks~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10780,7 +10780,7 @@
 
 
 
-~~~ Pair of Turquoise Leg Warmers~~~
+~~~ Pair of Turquoise Leg Warmers~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10805,7 +10805,7 @@
 |}
 
 
-~~~ Pirate Hat~~~
+~~~ Pirate Hat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10820,7 +10820,7 @@
 
 
 
-~~~ Purple Robe~~~
+~~~ Purple Robe~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10835,7 +10835,7 @@
 
 
 
-~~~ Red Beret~~~
+~~~ Red Beret~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10852,7 +10852,7 @@
 
 
 
-~~~ Red Cape~~~
+~~~ Red Cape~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10867,7 +10867,7 @@
 
 
 
-~~~ Red Sash~~~
+~~~ Red Sash~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10884,7 +10884,7 @@
 
 
 
-~~~ T-tunic~~~
+~~~ T-tunic~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10901,7 +10901,7 @@
 
 
 
-~~~ Tartan Kilt~~~
+~~~ Tartan Kilt~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10928,7 +10928,7 @@
 |}
 
 
-~~~ Fez~~~
+~~~ Fez~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10947,7 +10947,7 @@
 
 
 
-~~~ Brown Duster~~~
+~~~ Brown Duster~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10974,7 +10974,7 @@
 |}
 
 
-~~~ Gold Tinsel Halo~~~
+~~~ Gold Tinsel Halo~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -10989,7 +10989,7 @@
 
 
 
-~~~ Poncho~~~
+~~~ Poncho~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11016,7 +11016,7 @@
 |}
 
 
-~~~ Saffron Robe~~~
+~~~ Saffron Robe~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11043,7 +11043,7 @@
 |}
 
 
-~~~ Silk Kimono~~~
+~~~ Silk Kimono~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11070,7 +11070,7 @@
 |}
 
 
-~~~ Wrestling Mask~~~
+~~~ Wrestling Mask~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11095,7 +11095,7 @@
 |}
 
 
-~~~ Simple Pink Frock~~~
+~~~ Simple Pink Frock~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11122,7 +11122,7 @@
 |}
 
 
-~~~ Shiny Sequined Blouse~~~
+~~~ Shiny Sequined Blouse~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11149,7 +11149,7 @@
 |}
 
 
-~~~ Surcoat~~~
+~~~ Surcoat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11174,7 +11174,7 @@
 |}
 
 
-~~~ Sombrero~~~
+~~~ Sombrero~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11191,7 +11191,7 @@
 
 
 
-~~~ Hijab~~~
+~~~ Hijab~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11216,7 +11216,7 @@
 |}
 
 
-~~~ Argyle Sweater Vest~~~
+~~~ Argyle Sweater Vest~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11243,7 +11243,7 @@
 |}
 
 
-~~~ Pair of Military Guard Slacks~~~
+~~~ Pair of Military Guard Slacks~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11258,7 +11258,7 @@
 
 
 
-~~~ Black Tuxedo Pants~~~
+~~~ Black Tuxedo Pants~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11290,7 +11290,7 @@
 
 
 
-~~~ White Silken Gloves~~~
+~~~ White Silken Gloves~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11305,7 +11305,7 @@
 
 
 
-~~~ Leather Bodice~~~
+~~~ Leather Bodice~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11320,26 +11320,7 @@
 
 
 
-~~~ White Bowtie~~~
-
-{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
-|-style="background:#4E387E; color:white"
-|+ Inside
-!style="width:150px"|Location
-!style="width:10px"|Find Weight
-!style="width:10px"|% Chance
-!style="width:10px"|% Chance / AP
-|-
-| [[Costume Shop]] || 1 || 0.62 || 0.62
-|-
-| [[Hotel]] || 1 || 0.71 || 0.14
-|-
-| [[Mansion]] || 1 || 0.31 || 0.09
-|}
-
-
-
-~~~ Black Bowtie~~~
+~~~ White Bowtie~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11358,7 +11339,26 @@
 
 
 
-~~~ Red Bowtie~~~
+~~~ Black Bowtie~~~DONE
+
+{|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
+|-style="background:#4E387E; color:white"
+|+ Inside
+!style="width:150px"|Location
+!style="width:10px"|Find Weight
+!style="width:10px"|% Chance
+!style="width:10px"|% Chance / AP
+|-
+| [[Costume Shop]] || 1 || 0.62 || 0.62
+|-
+| [[Hotel]] || 1 || 0.71 || 0.14
+|-
+| [[Mansion]] || 1 || 0.31 || 0.09
+|}
+
+
+
+~~~ Red Bowtie~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11377,7 +11377,7 @@
 
 
 
-~~~ Blue Bowtie~~~
+~~~ Blue Bowtie~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11396,7 +11396,7 @@
 
 
 
-~~~ Black Waistcoat~~~
+~~~ Black Waistcoat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11415,7 +11415,7 @@
 
 
 
-~~~ White Waistcoat~~~
+~~~ White Waistcoat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11434,7 +11434,7 @@
 
 
 
-~~~ Gray Waistcoat~~~
+~~~ Gray Waistcoat~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11634,7 +11634,7 @@
 
 
 
-~~~ Black Cape~~~
+~~~ Black Cape~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11649,7 +11649,7 @@
 
 
 
-~~~ White Cape~~~
+~~~ White Cape~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11664,7 +11664,7 @@
 
 
 
-~~~ Gold-Trimmed Cape~~~
+~~~ Gold-Trimmed Cape~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -11987,7 +11987,7 @@
 
 
 
-~~~ Red Robe~~~
+~~~ Red Robe~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -13039,7 +13039,7 @@
 |}
 
 
-~~~ Gray Duster~~~
+~~~ Gray Duster~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -13136,7 +13136,7 @@
 |}
 
 
-~~~ Grey Duster~~~
+~~~ Grey Duster~~~DONE
 
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
@@ -13383,7 +13383,7 @@
 
 
 
-~~~ White Robe~~~
+~~~ White Robe~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
