@@ -14224,7 +14224,7 @@
 |}
 
 
-~~~ Throwing Knife~~~
+~~~ Throwing Knife~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14249,7 +14249,7 @@
 |}
 
 
-~~~ Suit of Military Encounter Armor~~~
+~~~ Suit of Military Encounter Armor~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14264,7 +14264,7 @@
 
 
 
-~~~ Shock Sphere~~~
+~~~ Shock Sphere~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14281,7 +14281,7 @@
 
 
 
-~~~ Greater Rod of Doom~~~
+~~~ Greater Rod of Doom~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14298,7 +14298,7 @@
 
 
 
-~~~ Greater Rod of Flame~~~
+~~~ Greater Rod of Flame~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14313,7 +14313,7 @@
 
 
 
-~~~ Greater Rod of Frost~~~
+~~~ Greater Rod of Frost~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14328,7 +14328,7 @@
 
 
 
-~~~ Greater Rod of Lightning~~~
+~~~ Greater Rod of Lightning~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14343,7 +14343,7 @@
 
 
 
-~~~ Rod of Doom~~~
+~~~ Rod of Doom~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14360,7 +14360,7 @@
 
 
 
-~~~ Rod of Wonder~~~
+~~~ Rod of Wonder~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14377,7 +14377,7 @@
 
 
 
-~~~ Poison Ring~~~
+~~~ Poison Ring~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
@@ -14392,7 +14392,7 @@
 
 
 
-~~~ Rapier~~~
+~~~ Rapier~~~DONE
 
 {|style="text-align:center; border-collapse:collapse" border="1px" class="sortable"
 |-style="background:#4E387E; color:white"
